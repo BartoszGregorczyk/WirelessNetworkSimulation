@@ -1,0 +1,23 @@
+﻿  chanell_listening_event.cpp
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\event.h(20,34): warning C4244: "return": konwersja z "size_t" do "long double", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(36,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+  difs_waiting_time_event.cpp
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\event.h(20,34): warning C4244: "return": konwersja z "size_t" do "long double", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(36,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\difs_waiting_time_event.cpp(15,14): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\difs_waiting_time_event.cpp(16,40): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  generate_packet_event.cpp
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\event.h(20,34): warning C4244: "return": konwersja z "size_t" do "long double", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(36,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+  simulator.cpp
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\generators.h(36,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\event.h(20,34): warning C4244: "return": konwersja z "size_t" do "long double", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\simulator.cpp(79,64): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\simulator.cpp(86,68): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\ProjektSymulacjaCyfrowa\simulator.cpp(144,33): warning C4244: "=": konwersja z "long double" do "size_t", możliwa utrata danych
+  Generowanie kodu...
+  ProjektSymulacjaCyfrowa.vcxproj -> C:\Users\Bartek\Desktop\symulacja_final- najnowsza wersja\x64\Debug\ProjektSymulacjaCyfrowa.exe

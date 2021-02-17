@@ -1,0 +1,4 @@
+﻿  generate_packet_event.cpp
+C:\Users\Norbert\source\repos\ProjektSymulacjaCyfrowa\ProjektSymulacjaCyfrowa\generators.h(35,23): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Norbert\source\repos\ProjektSymulacjaCyfrowa\ProjektSymulacjaCyfrowa\generators.h(36,23): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+  ProjektSymulacjaCyfrowa.vcxproj -> C:\Users\Norbert\source\repos\ProjektSymulacjaCyfrowa\Debug\ProjektSymulacjaCyfrowa.exe
