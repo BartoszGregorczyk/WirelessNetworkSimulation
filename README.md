@@ -20,3 +20,11 @@ Project is created with:
 * C++
 
 ## Setup
+**parameter values entered when running the simulation:**
+* Simulation number 1-10 (Parameter for setting different seeds for generators)
+* Simulation time in quantum ( 1 quantum = 0.1 ms)
+* End of the initial phase (from which package the statistics are to be collected)
+* Lambda parameter
+
+**program window after simulation:** <br/>
+![console](./img/console.png)
