@@ -1,9 +1,1 @@
-﻿  simulator.cpp
-C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\ProjektSymulacjaCyfrowa\generators.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
-C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\ProjektSymulacjaCyfrowa\generators.h(36,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
-C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\ProjektSymulacjaCyfrowa\event.h(20,34): warning C4244: "return": konwersja z "size_t" do "long double", możliwa utrata danych
-C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\ProjektSymulacjaCyfrowa\simulator.cpp(79,64): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\ProjektSymulacjaCyfrowa\simulator.cpp(86,68): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\ProjektSymulacjaCyfrowa\simulator.cpp(148,33): warning C4244: "=": konwersja z "long double" do "size_t", możliwa utrata danych
-C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\ProjektSymulacjaCyfrowa\simulator.cpp(111,10): warning C4101: "mode": lokalna zmienna, do której nie istnieje odwołanie
-  ProjektSymulacjaCyfrowa.vcxproj -> C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\x64\Debug\ProjektSymulacjaCyfrowa.exe
+﻿  ProjektSymulacjaCyfrowa.vcxproj -> C:\Users\Bartas\Documents\GitHub\WirelessNetworkSimulation\x64\Debug\ProjektSymulacjaCyfrowa.exe
