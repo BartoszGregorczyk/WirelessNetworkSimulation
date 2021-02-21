@@ -26,5 +26,3 @@ Project is created with:
 * End of the initial phase (from which package the statistics are to be collected)
 * Lambda parameter
 
-**program window after simulation:** <br/>
-![console](./img/console.png)
