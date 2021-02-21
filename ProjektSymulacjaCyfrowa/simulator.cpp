@@ -112,7 +112,9 @@ void Simulator::M2(int time)
     bool flag_mode;                      // Flaga do wyboru trybu symulacji 
     double lambda = wireless_network_->GetLambda();
     clock_ = 0;
+   
     std::cout << "Started Simulation method M2: \n \n";
+    /*
     std::cout << "Select Mode: ------- 1=Step by Step ------- 2=continous : ";
         cin >> mode;
         switch (mode)
@@ -124,6 +126,8 @@ void Simulator::M2(int time)
         default: flag_mode = false;
         }
         std::cout<<"\n";
+        */
+    flag_mode = false;
 
     auto cmp = [](Event* left, Event* right) { return left->get_time() > right->get_time(); };
     Event::EventList event_list(cmp);
